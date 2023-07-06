@@ -6,7 +6,7 @@ import json
 import pyperclip
 
 # function for generating passwords
-chars = [x for x in string.ascii_lowercase + string.ascii_lowercase + string.digits + string.punctuation]
+chars = [x for x in string.ascii_lowercase + string.ascii_uppercase + string.digits + string.punctuation]
 
 # passwords
 with open('./saved_pass.json', 'r') as file:
