@@ -3,10 +3,11 @@ A graphical user interface based app that generates random passwords and saves p
 
 ### List of files
 1. 1 .py file for the main code
-2. 1. .json file for the saved passwords
+2. 1 .json file for the saved passwords
 3. 1 requirements.txt file to list out all the python dependencies
 4. 1 .png and 1 .ico file for respectively the background image and the icon for the app
 5. 1 .rar file to store the .exe version of the entire app so that one can run it without installing python
+6. 1 video file for the demonstration of the app
 
 ### How to run the app 
 follow the below steps 
